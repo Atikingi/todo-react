@@ -1,0 +1,10 @@
+.wrapper {
+    width: 100vw;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #1e1f25;
+}
+
+
