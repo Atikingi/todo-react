@@ -1,0 +1,21 @@
+.wrapper {
+    width: 320px;
+    padding: 15px;
+    border: 1px solid #29292f;
+    box-shadow: 0 2px 9px rgba(180, 180, 180, 0.05);
+    border-radius: 7px;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    list-style: none;
+    color: #dadada;
+}
+
+.filter {
+    margin-bottom: 20px;
+    margin-left: auto;
+    outline: none;
+}
